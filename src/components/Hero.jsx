@@ -17,7 +17,7 @@ const Hero = () => {
           <input 
             type="text" 
             placeholder="Search destinations, tours, or experiences..." 
-            className="w-full py-4 px-6 rounded-full shadow-lg text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full py-4 px-6 rounded-full shadow-lg text-black-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
           <button className="absolute right-2 top-2 bg-blue-600 text-white py-2 px-6 rounded-full hover:bg-blue-700 transition duration-300">
             Search

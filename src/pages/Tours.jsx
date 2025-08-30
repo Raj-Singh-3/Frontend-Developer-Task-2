@@ -18,7 +18,7 @@ const Tours = () => {
     {
       id: 2,
       name: "Japanese Cultural Journey",
-      image: "https://images.unsplash.com/photo-1598797367116-810eb5720bed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      image: "https://vj-prod-website-cms.s3.ap-southeast-1.amazonaws.com/shutterstock762780751huge-1675509796271.jpg",
       description: "Immerse yourself in traditional Japanese culture from Kyoto to Tokyo.",
       duration: "14 days",
       price: 2599,
@@ -38,7 +38,7 @@ const Tours = () => {
     {
       id: 4,
       name: "Italian Culinary Tour",
-      image: "https://images.unsplash.com/photo-1533779309914-8e168aef6c1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      image: "https://hips.hearstapps.com/hmg-prod/images/italy-food-tours-umbria-2-6597fefc3e75f.jpg",
       description: "Taste your way through Italy from Rome to Florence and Bologna.",
       duration: "12 days",
       price: 2199,
